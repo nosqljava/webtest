@@ -60,7 +60,7 @@ function section(n) {
   <div class="container mt-3">
       <h4>설문 목록</h4>
       <!--검색 시작 -->
-      <form action="./poll.jsp" class='pt-1'>
+      <form action="./poll.jsp#section1" class='pt-1'>
           <div class="row">
               <div class='col'>
                   <select class="form-select" name="col">

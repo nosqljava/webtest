@@ -61,7 +61,7 @@ String root = request.getContextPath();
           </ul>
         </li>
         
-        <li class="nav-item"><a class="nav-link" href="<%=root%>/poll/poll.jsp">투표</a></li>
+        <li class="nav-item"><a class="nav-link" href="<%=root%>/poll/poll.jsp#section1">투표</a></li>
         <li class="nav-item"><a class="nav-link" href="#">Menu 3</a></li>
       </ul>
     </div>
